@@ -1,4 +1,4 @@
-package com.telusko.SpringEcom.service;
+package com.ecom.SpringEcom.service;
 
 import org.springframework.ai.image.ImageModel;
 import org.springframework.ai.image.ImagePrompt;
