@@ -1,0 +1,1 @@
+![alt text](AI_Enabled_Ecommerce_Architecture-1.jpg)
